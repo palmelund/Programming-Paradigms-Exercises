@@ -8,4 +8,4 @@
                   (null? (cdr l))
                   (null? (cddr l)))
                  '()
-                 (every-second-element (cddr l))))))
+                 (every-second-element (cddr l))))))s
